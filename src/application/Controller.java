@@ -67,7 +67,7 @@ public class Controller {
 	
 	//CRIANDO AS PEÇAS
 	
-	public static Form makeReact() {
+	public static Form makeRect() {
 		//cor colorida para as peças
 		
 		int block = (int) (Math.random() * 100);
